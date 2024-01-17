@@ -1,1 +1,2 @@
-# tech514-HWSW
+# Part one
+![image](/1.PNG)
