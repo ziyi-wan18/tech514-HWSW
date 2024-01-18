@@ -4,7 +4,7 @@ I want to make a plant condition monitoring product. The main task is to monitor
 
 # Part two
 ![image](/2.png)
-
+I found a soil moisture sensor that plugs into the soil, and there are three pins
 
 # Part three
 ![image](/3.png)
